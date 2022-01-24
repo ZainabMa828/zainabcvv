@@ -1,0 +1,115 @@
+.accordion {
+    background-color: #373838;
+    color: #a5ea9b;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    transition: 0.4s;
+    font-family: Bahnschrift SemiLight;
+  }
+  
+  .active, .accordion:hover {
+    background-color: #373838; 
+  }
+  .accordion:hover{
+      color: #7ed1e2;
+  }
+
+  .panel {
+    padding: 0 18px;
+    display: none;
+    background-color: #373838;
+    overflow: hidden;
+  }
+
+.hr1{
+    size: 60;
+    width: 80%;
+    background-color: #ff61d8;
+    margin-left: 100px;
+}
+
+/*skills style*/
+
+  
+  .html {width: 100%; background-color: #a5ea9b;}
+  .css {width: 100%; background-color: #ff61d8;}
+  .bootstrap{width: 100%; background-color: #569cfa;}
+  .Microsoft {width: 100%; background-color: #ffcc81;}
+  .teamwork{width: 90%; background-color: #7ed1e2;}
+  .Problem{width: 80%; background-color: #a5ea9b;}
+  .MySQl{width: 70%; background-color: #ff61d8;}
+  .xam{width: 70%; background-color: #569cfa;}
+  .onlin{width: 70%; background-color: #ffcc81;}
+  .php {width: 50%; background-color: #7ed1e2;}
+  .js {width: 40%; background-color: #a5ea9b;}
+  .java {width: 50%; background-color: #ff61d8;}
+
+  .hide {
+    display: none;
+    background-color: rgba(92, 91, 91, 0.5);
+  }
+      
+  .myDIV:hover + .hide {
+    display: block;
+  
+  }
+  
+  .myDIV{
+    background-color: #373838;
+    color: #a5ea9b;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    transition: 0.4s;
+    font-family: Bahnschrift SemiLight;
+  }
+
+  .myDIV:hover{
+    color: #ff61d8; 
+  }
+  
+  .skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+
+  img{
+      height: 600px;
+      width: 900px;
+  }
+
+  h8{
+    font-size: 18px;
+    color: white;
+    font-family: Berlin Sans FB Demi; 
+    text-align: center;
+  }
+
+  .aa{
+    background-color: #373838;
+    color: #ff61d8;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    text-align: center;
+    outline: none;
+    font-size: 25px;
+    margin-left: 180px;
+    transition: 0.4s;
+    font-family: Bahnschrift SemiLight;
+  }
+
+  .aa:hover{
+    color: #7ed1e2; 
+  }

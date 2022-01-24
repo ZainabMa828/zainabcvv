@@ -1,0 +1,81 @@
+
+  
+body{
+    background-color: #373838;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Century;
+    color: rgb(255, 255, 255);
+}
+ 
+p{
+    font-size: 20px;
+    color: #ff61d8;
+    font-family: Century;
+}
+
+hr{
+    height:15px;
+    background-color:white;
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: Cooper Black;
+}
+
+.p1{
+    font-size: 25px;
+    color: #569cfa;
+    font-family: Agency FB;
+}
+
+h3{
+    font-size: 30px;
+    color: #ffcc81;
+    font-family: Berlin Sans FB Demi; 
+    text-align: center;
+}
+
+.p2{
+    font-size: 18px;
+    color: #ff61d8;
+    font-family: Bahnschrift SemiLight;
+    margin: 0 !important;
+    padding-left: 70px; 
+}
+.p3{
+    font-size: 18px;
+    color: #ff61d8;
+    font-family: Bahnschrift SemiLight;
+    margin: 0 !important;
+    padding-left: 45px; 
+}
+
+.p4{
+    font-size: 18px;
+    color: #ff61d8;
+    font-family: Bahnschrift SemiLight;
+    margin: 0 !important;
+    padding-left: 140px; 
+}
+
+h4{
+    font-size: 25px;
+    color: #ffcc81;
+    font-family: Berlin Sans FB Demi; 
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+    color: #a5ea9b;
+    padding-left: 170px; 
+}
+a:hover {
+    color: #7ed1e2;
+  }
+
